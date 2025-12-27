@@ -1,0 +1,350 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0577ab01-2864-405a-9ec2-3e35f3329540")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 182.118 20.574)
+		(size 48.006 31.496)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "18bf5bde-e397-448a-a2a9-5d1fa33f8d0d")
+		(property "Sheetname" "3.3V Regulator"
+			(at 182.118 19.8624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3.3V Regulator.kicad_sch"
+			(at 182.118 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 49.022 63.754)
+		(size 48.768 28.702)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ec49d6e-ba0c-46aa-a799-fb04fff965b6")
+		(property "Sheetname" "2.0V Regulator"
+			(at 49.022 63.0424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2.0V Regulator.kicad_sch"
+			(at 49.022 93.0406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 63.5)
+		(size 40.894 29.464)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "89041293-9a5e-4723-af11-deabd26cc7a9")
+		(property "Sheetname" "Distance Sensor"
+			(at 101.6 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Distance Sensor.kicad_sch"
+			(at 101.6 93.5486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.168 20.066)
+		(size 33.528 32.258)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "90949567-0ab7-451b-993c-0e13cdf7932f")
+		(property "Sheetname" "CAN"
+			(at 74.168 19.3544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 74.168 52.9086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.574 19.558)
+		(size 47.498 32.512)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9ec28b31-eab4-432a-ad50-1d26053021a4")
+		(property "Sheetname" "MCU"
+			(at 20.574 18.8464 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 20.574 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.654 62.738)
+		(size 45.466 30.734)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bc92df8d-0738-47b0-8f70-4aaf63a7bb39")
+		(property "Sheetname" "IMU"
+			(at 152.654 62.0264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMU.kicad_sch"
+			(at 152.654 94.0566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.332 20.066)
+		(size 58.928 32.512)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6620866-f396-450d-acb6-baa6a5f64408")
+		(property "Sheetname" "Reverse Polarity Protection"
+			(at 116.332 19.3544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Reverse Polarity Protection.kicad_sch"
+			(at 116.332 53.1626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 110.236)
+		(size 39.37 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe596fb7-0151-4250-ac59-8cd8838b2ce4")
+		(property "Sheetname" "Optical Flow Sensor"
+			(at 50.8 109.5244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Optical Flow Sensor.kicad_sch"
+			(at 50.8 133.6806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "distance_sensor_module"
+				(path "/0577ab01-2864-405a-9ec2-3e35f3329540"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
